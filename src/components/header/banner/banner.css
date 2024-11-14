@@ -1,0 +1,13 @@
+
+.banner-bg{
+    background-image: url('../../../assets/bg-shadow.png');
+}
+.btn-gradiant{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.newsletter-bg{
+    background: rgb(233,187,121);
+    background: linear-gradient(209deg, rgba(233,187,121,1) 0%, rgba(255,251,248,1) 17%, rgba(255,255,255,1) 34%, rgba(255,255,255,1) 50%, rgba(216,255,238,1) 69%, rgba(179,217,216,1) 85%, rgba(74,169,170,1) 100%);
+
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "batting_hand": "Right-hand",
+    "price": 2400000,
+    "image": "https://i.ibb.co.com/7NhXrb3/virat-kohli.jpg",
+    "bowling_technique": "Right-arm medium",
+    "role": "Batsman"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "batting_hand": "Left-hand",
+    "price": 1300000,
+    "image": "https://i.ibb.co.com/mXVnb2G/Shakib.webp",
+    "bowling_technique": "Slow left-arm orthodox",
+    "role": "Allrounder"
+  },
+  {
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "batting_hand": "Left-hand",
+    "price": 750000,
+    "image": "https://i.ibb.co.com/j4nRL81/Tamim.webp",
+    "bowling_technique": "Right-arm offbreak",
+    "role": "Batsman"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "batting_hand": "Right-hand",
+    "price": 1500000,
+    "image": "https://i.ibb.co.com/HPXPC3r/kane.jpg",
+    "bowling_technique": "Right-arm offbreak",
+    "role": "Batsman"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "batting_hand": "Right-hand",
+    "price": 1800000,
+    "image": "https://i.ibb.co.com/S5MF00j/Joe-Root.jpg",
+    "bowling_technique": "Right-arm offbreak",
+    "role": "Batsman"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "batting_hand": "Right-hand",
+    "price": 1600000,
+    "image": "https://i.ibb.co.com/ZgTdtQT/Babar-Azam.jpg",
+    "bowling_technique": "Right-arm offbreak",
+    "role": "Batsman"
+  },
+  {
+    "name": "Shai Hope",
+    "country": "West Indies",
+    "batting_hand": "Right-hand",
+    "price": 800000,
+    "image": "https://i.ibb.co.com/QJyHLP2/ShaiHope.jpg",
+    "bowling_technique": "Right-arm offbreak",
+    "role": "Wicketkeeper"
+  },
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "batting_hand": "Left-hand",
+    "price": 1200000,
+    "image": "https://i.ibb.co.com/VTfwsTr/Quintonde-Kock.jpg",
+    "bowling_technique": "Right-arm offbreak",
+    "role": "Wicketkeeper"
+  },
+  {
+    "name": "Kusal Perera",
+    "country": "Sri Lanka",
+    "batting_hand": "Left-hand",
+    "price": 900000,
+    "image": "https://i.ibb.co.com/mzBfx9B/Kusal-Perera.jpg",
+    "bowling_technique": "Right-arm medium",
+    "role": "Wicketkeeper"
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "batting_hand": "Left-hand",
+    "price": 2000000,
+    "image": "https://i.ibb.co.com/93VRjr6/David-Warner.jpg",
+    "bowling_technique": "Right-arm legbreak",
+    "role": "Batsman"
+  }
+]
